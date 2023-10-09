@@ -1,7 +1,10 @@
-header {
-    background-color: #102ed6;
+header{
+    background-color: #383D58;
     color: white;
-} 
-.cabecalho-imagem{
-
+}
+.cabeçalho-imagem{
+    width: 20%;
+    background-color: #383D58;
+    color: white;
+    display:flex;  
 }
